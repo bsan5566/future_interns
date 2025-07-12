@@ -1,18 +1,43 @@
-🎯 Thrilled to share my learning journey at FutureInterns! 🚀
+# 📊 FutureInterns Data Analytics Internship – Power BI Dashboard (TASK12)
 
-As a Data Analytics Intern, I had the opportunity to work on real-world datasets, gaining hands-on experience with tools like Power BI to transform complex data into actionable insights.
+Welcome to my Data Analytics Internship project completed during my tenure at **FutureInterns**. This repository showcases my work on building an interactive and insightful Power BI dashboard based on real-world datasets.
 
-📊 One of my key projects involved building an interactive dashboard (TASK12), where I explored trends, visualized KPIs, and derived meaningful conclusions from raw data.
+## 🔍 Project Overview
 
-🔍 What I learned:
+As part of the internship, I worked on analyzing datasets to:
+- Clean and transform raw data
+- Create meaningful visuals using Power BI
+- Interpret insights for data-driven decision making
 
-Data storytelling through dashboards
+The `.pbix` file (`TASK12.pbix`) contains the full Power BI report with dynamic visualizations and key performance indicators (KPIs).
 
-Importance of clean, structured data
+## 🛠 Tools & Technologies
+- Microsoft Power BI
+- Data Cleaning & Transformation
+- DAX (Data Analysis Expressions)
+- Visualization Best Practices
 
-Turning numbers into business value
+## 📌 Key Features
+- Interactive dashboards and slicers
+- KPI cards and trend analysis
+- Drill-through reports for detailed insights
+- User-friendly visual storytelling
 
-I'm grateful to FutureInterns for this incredible opportunity and mentorship! Excited to continue growing in the field of data analytics. 💼✨
+## 🧠 Learning Outcomes
+- Hands-on experience with Power BI
+- Improved data interpretation and visualization skills
+- Understanding of business intelligence reporting
 
-#DataAnalytics #InternshipExperience #PowerBI #FutureInterns #DataVisualization #LearningByDoing #BusinessIntelligence #InternshipJourney
+## 📁 Files Included
+- `TASK12.pbix`: Power BI report file
+- `README.md`: Project documentation (this file)
+
+## 📷 Preview
+> *(Optional)* – Add a screenshot of the dashboard here
+
+## 🤝 Acknowledgements
+Special thanks to **FutureInterns** for providing this valuable internship experience and mentorship.
+
+---
+
 
