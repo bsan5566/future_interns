@@ -1,4 +1,4 @@
-# 📊 FutureInterns Data Analytics Internship – Power BI Dashboard (TASK12)
+# 📊 FutureInterns Data Analytics Internship – Power BI Dashboard (TASK1)
 
 Welcome to my Data Analytics Internship project completed during my tenure at **FutureInterns**. This repository showcases my work on building an interactive and insightful Power BI dashboard based on real-world datasets.
 
