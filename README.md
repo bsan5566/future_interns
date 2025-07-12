@@ -9,7 +9,7 @@ As part of the internship, I worked on analyzing datasets to:
 - Create meaningful visuals using Power BI
 - Interpret insights for data-driven decision making
 
-The `.pbix` file (`TASK12.pbix`) contains the full Power BI report with dynamic visualizations and key performance indicators (KPIs).
+The `.pbix` file (`TASK1.pbix`) contains the full Power BI report with dynamic visualizations and key performance indicators (KPIs).
 
 ## 🛠 Tools & Technologies
 - Microsoft Power BI
@@ -30,7 +30,8 @@ The `.pbix` file (`TASK12.pbix`) contains the full Power BI report with dynamic 
 
 ## 📁 Files Included
 - `TASK1.pbix`: Power BI report file
-- `README.md`: Project documentation (this file)
+- `sample_dataset`: superstore.xls
+- `dashboard.png`:image of dashboard
 
 
 
