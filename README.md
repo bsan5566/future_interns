@@ -29,11 +29,10 @@ The `.pbix` file (`TASK12.pbix`) contains the full Power BI report with dynamic 
 - Understanding of business intelligence reporting
 
 ## 📁 Files Included
-- `TASK12.pbix`: Power BI report file
+- `TASK1.pbix`: Power BI report file
 - `README.md`: Project documentation (this file)
 
-## 📷 Preview
-> *(Optional)* – Add a screenshot of the dashboard here
+
 
 ## 🤝 Acknowledgements
 Special thanks to **FutureInterns** for providing this valuable internship experience and mentorship.
